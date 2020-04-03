@@ -1,0 +1,10 @@
+body {
+    background-color: skyblue;
+}
+.container {
+    margin-top: 2em;
+}
+img {
+    max-height: 500px;
+    max-width: 500px:
+}
